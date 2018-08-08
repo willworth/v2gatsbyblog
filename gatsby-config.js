@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    title: 'Worth Coding',
+    author: 'Will Worth',
+    description: 'A coding blog.',
+    siteUrl: 'https://github.com/willworth/v2gatsbyblog',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Worth Coding`,
+        short_name: `WorthCoding`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

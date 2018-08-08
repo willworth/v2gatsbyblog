@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
+  "name": "Worth Coding",
+  "description": "Worth Coding Blog",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Will Worth <willworthcoding@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
+    "url": "https://github.com/willworth/v2gatsbyblog"
   },
   "dependencies": {
     "gatsby": "next",
@@ -40,9 +40,9 @@
     "gh-pages": "^1.1.0",
     "prettier": "^1.12.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/willworth/v2gatsbyblog",
   "keywords": [
-    "gatsby"
+    "willworth"
   ],
   "license": "MIT",
   "main": "n/a",
